@@ -1,6 +1,6 @@
 # <h1 align="center"> Badger Contract </h1>
 
-![Badger Home Page](./banner.png)
+![image](https://github.com/sogobanwo/scroll-badger-contract-/assets/99739569/94041b06-f31b-4cb9-b384-011732e5eaea)
 
 ## Overview
 
@@ -52,6 +52,9 @@ We believe that this tool will be great for onboarding more users to the Scroll 
 ## Frontend
 
 You can find the Badger Frontend - [HERE](https://github.com/JeffreyJoel/badger-scroll)
+
+## SubGraph
+You can find the Badger Subgraph - [HERE](https://github.com/sogobanwo/scroll-badger-subgraph)
 
 ## Acknowledgments
 
